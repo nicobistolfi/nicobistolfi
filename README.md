@@ -6,7 +6,7 @@ I'm a founder and product engineering leader originally from 🇺🇾 and based 
 
 I'm currently working in [mockthis.io](https://github.com/nicobistolfi/mockthis-cli), a powerful CLI tool for creating mock endpoints to facilitate e2e and integration tests. This project aims to streamline the development process and improve the quality of software testing.
 
-### 🌟 Open Source Projects
+### 🌟 Projects
 - [Mock Thiis CLI](https://github.com/nicobistolfi/mockthis-cli): Mock API endpoints in seconds from your command line.
 
 - [Eagle Image API](https://github.com/nicobistolfi/eagle-image-api): A free and open-source Image Optimization & Transformation API.
