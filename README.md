@@ -4,7 +4,7 @@ I'm a founder and product engineering leader originally from 🇺🇾 and based 
 
 ### 🚀 Currently working on: soon to be released cli tool for mocking endpoints
 
-I'm currently working on [mockthis](https://github.com/nicobistolfi/mockthis-cli), powerful CLI tool for creating mock endpoints to facilitate e2e and integration tests. This project aims to streamline the development process and improve the quality of software testing. Ping me if you're interested and I'll make sure you get access to the alpha.
+I'm currently working on [mockthis](https://github.com/nicobistolfi/mockthis-cli), a powerful CLI tool for creating mock endpoints to facilitate e2e and integration tests. This project aims to streamline the development process and improve the quality of software testing. Ping me if you're interested and I'll make sure you get access to the alpha.
 
 
 ### 🌟 Open Source Projects
