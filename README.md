@@ -2,9 +2,9 @@
 
 I'm a founder and product engineering leader originally from 🇺🇾 and based in the San Francisco Bay Area, CA. With a passion for driving innovation and solving complex problems, I've successfully led multiple startups from inception to acquisition.
 
-### 🚀 Currently working on: soon to be released cli tool for mocking endpoints
+### 🚀 Currently working on: [mockthis.io](https://github.com/nicobistolfi/mockthis-cli)
 
-I'm currently working in [mockthis.io](https://github.com/nicobistolfi/mockthis-cli), a powerful CLI tool for creating mock endpoints to facilitate e2e and integration tests. This project aims to streamline the development process and improve the quality of software testing.
+I'm currently working in [mockthis.io](https://github.com/nicobistolfi/mockthis-cli), a powerful CLI tool for creating publicly available mock endpoints to facilitate e2e and integration tests. This project aims to streamline the development process and improve the quality of software testing.
 
 ### 🌟 Projects
 - [Mock Thiis CLI](https://github.com/nicobistolfi/mockthis-cli): Mock API endpoints in seconds from your command line.
