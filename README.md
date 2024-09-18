@@ -13,14 +13,16 @@ I'm currently working in [mockthis.io](https://github.com/nicobistolfi/mockthis-
 
 - [Go REST API](https://github.com/nicobistolfi/go-rest-api): A robust boilerplate REST API implementation in Go.
 
-### 📚 Publications
+### 📚 Blog Highlights
 
+- [My TV was hacked](https://nico.bistol.fi/blog/hacking): A Story of Creativity and Determination
+- [Leapfrogging a Problem](https://nico.bistol.fi/blog/leap-frog): Reinventing the Wheel
 - [The Most Complete Guide for Image Optimization](https://www.piio.co/blog/the-most-complete-guide-for-image-optimization): A comprehensive guide on optimizing images for the web.
+
 
 ### 📫 Let's Connect!
 
+- [Website](https://nico.bistol.fi)
 - [X.com](https://x.com/nicobistolfi)
 - [LinkedIn](https://www.linkedin.com/in/nicolasbistolfi/)
 - Email: nico AT bistol DOT fi
-
-Don't hesitate to reach out!
