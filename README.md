@@ -1,10 +1,10 @@
 ## 👋 Hello, I'm Nico!
 
-I'm a founder and product engineering leader originally from 🇺🇾 and based in the San Francisco Bay Area, CA. With a passion for driving innovation and solving complex problems, I've successfully led multiple startups from inception to acquisition.
+I'm a multiple times founder and product engineering leader, originally from 🇺🇾 now based in the San Francisco Bay Area, CA. With a passion for driving innovation and solving complex problems, I've successfully led multiple startups from inception to acquisition.
 
-### 🚀 Currently working on: [mockthis.io](https://mockthis.io)
+### 🚀 Currently: Looking for my next career move!
 
-I'm currently working in [mockthis.io](https://mockthis.io), a powerful CLI tool for creating publicly available mock endpoints to facilitate e2e and integration tests. This project aims to streamline the development process and improve the quality of software testing.
+While I continue to learn and work on open-source projects, I'm searching for my next career move. Feel free to reach out!
 
 ### 🌟 Projects
 - [Mock Thiis CLI](https://github.com/nicobistolfi/mockthis-cli): Mock API endpoints in seconds from your command line.
@@ -12,6 +12,9 @@ I'm currently working in [mockthis.io](https://mockthis.io), a powerful CLI tool
 - [Eagle Image API](https://github.com/nicobistolfi/eagle-image-api): A free and open-source Image Optimization & Transformation API.
 
 - [Go REST API](https://github.com/nicobistolfi/go-rest-api): A robust boilerplate REST API implementation in Go.
+
+### 🕹️ Fun Stuff
+- [Dynamic Mock API generation](https://github.com/nicobistolfi/mockthis-api-gen): Generating dynamic mock APIs using Langchain and Athropic.
 
 ### 📚 Blog Highlights
 
