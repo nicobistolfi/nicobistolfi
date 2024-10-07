@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Nico!
 
-I'm a multiple times founder and product engineering leader, originally from 🇺🇾 now based in the San Francisco Bay Area, CA. With a passion for driving innovation and solving complex problems, I've successfully led multiple startups from inception to acquisition.
+I'm a multiple-time founder and product engineering leader, originally from 🇺🇾 now based in the San Francisco Bay Area, CA. With a passion for driving innovation and solving complex problems, I've successfully led multiple startups from inception to acquisition.
 
 ### 🚀 Currently: Looking for my next career move!
 
