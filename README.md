@@ -2,16 +2,13 @@
 
 I'm a multiple-time founder and product engineering leader, originally from 🇺🇾 now based in the San Francisco Bay Area, CA. With a passion for driving innovation and solving complex problems, I've successfully led multiple startups from inception to acquisition.
 
-### 🚀 Currently: Looking for my next career move!
-
-While I continue to learn and work on open-source projects, I'm searching for my next career move. Feel free to reach out!
-
 ### 🌟 Projects
-- [Mock Thiis CLI](https://github.com/nicobistolfi/mockthis-cli): Mock API endpoints in seconds from your command line.
 
 - [Eagle Image API](https://github.com/nicobistolfi/eagle-image-api): A free and open-source Image Optimization & Transformation API.
 
-- [Go REST API](https://github.com/nicobistolfi/go-rest-api): A robust boilerplate REST API implementation in Go.
+- [Go Lambda API](https://github.com/nicobistolfi/go-lambda-api): A boilerplate to run Go API in AWS Lambda.
+
+- [Go Textract API](https://github.com/nicobistolfi/go-textract-api): A AWS Textract API to easily deploy using AWS Lambda and Serverless Framework.
 
 ### 🕹️ Fun Stuff
 - [Dynamic Mock API generation](https://github.com/nicobistolfi/mockthis-api-gen): Generating dynamic mock APIs using Langchain and Athropic.
