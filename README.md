@@ -10,6 +10,9 @@ I'm a multiple-time founder and product engineering leader, originally from 🇺
 
 - [Go Textract API](https://github.com/nicobistolfi/go-textract-api): A AWS Textract API to easily deploy using AWS Lambda and Serverless Framework.
 
+- [Go PostgreSQL Backup](https://github.com/nicobistolfi/go-postgres-s3-backup): A serverless backup solution for PostgreSQL, with automatic daily, monthly, and yearly backup rotation to S3.
+
+
 ### 🕹️ Fun Stuff
 - [Dynamic Mock API generation](https://github.com/nicobistolfi/mockthis-api-gen): Generating dynamic mock APIs using Langchain and Athropic.
 
