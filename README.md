@@ -2,7 +2,7 @@ I'm a multiple-time founder and product engineering leader, originally from 🇺
 
 ### Projects
 
-#### Personal Repositories
+#### Personal Explorations
 
 - [eagle-image-api](https://github.com/nicobistolfi/eagle-image-api) 🦅: Free and open source Image Optimization & Transformation API build on Typescript using Sharp.
 - [go-lambda-api](https://github.com/nicobistolfi/go-lambda-api): A minimal Golang HTTP API built with the standard library, featuring API key authentication and designed for serverless deployment on AWS Lambda.
@@ -33,3 +33,8 @@ I'm a multiple-time founder and product engineering leader, originally from 🇺
 - [X.com](https://x.com/nicobistolfi)
 - [LinkedIn](https://www.linkedin.com/in/nicolasbistolfi/)
 - Email: nico AT bistol DOT fi
+
+
+#### BONUS: Early PHP Days
+- [Esetres S3 Library](https://packagist.org/packages/dumpk/esetres) +20k downloads
+- [Elastcoder AWS Transcoder Library](https://packagist.org/packages/dumpk/elastcoder) +20k downloads
